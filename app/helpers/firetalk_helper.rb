@@ -1,0 +1,2 @@
+module FiretalkHelper
+end
